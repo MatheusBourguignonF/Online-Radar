@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Radar</title>
+    <link rel="stylesheet" href="radar.css">
+    <script src="radar.js" defer></script>
+   
+</head>
+<body>
+    <main>
+        <section>
+                <h1>Online Radar</h1>
+                <h3>Check your speed and find out if <br>you will get a ticket.</h3>
+                <div class="inputs">
+                    <select name="vias" id="vias">
+                        <option value="IDontKnow">I don't know</option>
+                        <option value="FastTransit">Fast Transit</option>
+                        <option value="Arterial">Arterial</option>
+                        <option value="Collector">Collector</option>
+                        <option value="location">location</option>
+                        <option value="Highway">Highway</option>
+                        <option value="Road">Road</option>
+                    </select>
+                    <input class="speed" type="number" name="" id="" placeholder="Speed"> <p>km/h</p>
+                </div>
+                <input class="submit" type="submit">
+                <div class="hidden">
+                    <div class="result"></div>
+                </div>
+        </section>
+    </main>
+</body>
+</html>

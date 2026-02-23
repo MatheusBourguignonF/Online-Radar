@@ -4,20 +4,20 @@ Aplicação web desenvolvida com HTML, CSS e JavaScript que simula o funcionamen
 
 📌 Funcionalidades
 
-Seleção do tipo de via
+- Seleção do tipo de via
 
-Entrada de velocidade em km/h
+- Entrada de velocidade em km/h
 
-Verificação automática de multa
+- Verificação automática de multa
 
-Exibição dinâmica do resultado na tela
+- Exibição dinâmica do resultado na tela
 
-Interface moderna com foco em usabilidade
+- Interface moderna com foco em usabilidade
 
 🛠 Tecnologias utilizadas
 
-HTML5
+- HTML5
 
-CSS3
+- CSS3
 
-JavaScript (ES6+)
+- JavaScript (ES6+)
